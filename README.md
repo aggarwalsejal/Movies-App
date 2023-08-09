@@ -3,5 +3,5 @@
 # :movie_camera: Functionalities:
 
 * Select movies on basis of genre like Action, Comedy and Thriller
-* Can add delete the movie
+* Can add/delete the movie
 * Can add a movie to a wishlist
